@@ -1806,7 +1806,7 @@ console.log(util.stripVTControlCharacters('\u001B[4mvalue\u001B[0m'));
 <!-- YAML
 added: v20.12.0
 changes:
-  - version: REPLACEME
+  - version: v20.19.3
     pr-url: https://github.com/nodejs/node/pull/56265
     description: styleText is now stable.
   - version:
